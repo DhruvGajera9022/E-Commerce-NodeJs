@@ -31,7 +31,7 @@ This is a Node.js-based RESTful API for an e-commerce platform, designed to hand
 
    ```bash
    git clone https://github.com/DhruvGajera9022/E-Commerce-NodeJs.git
-   cd your-repo-name
+   cd E-Commerce-NodeJs
    ```
 
 2. **Install Packages:**
